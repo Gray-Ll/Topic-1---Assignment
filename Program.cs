@@ -18,7 +18,7 @@
             Console.WriteLine("G   G L");
             Console.WriteLine("G   G L");
             Console.WriteLine(" GGG  LLLLLLL");
-            //This is code
+            //The text above is code
         }
     }
 }
